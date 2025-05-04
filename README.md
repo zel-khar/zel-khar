@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zel-khar
+- 👋 Hi, I’m @zakariya
 - 👀 I’m interested in coding world and im trying to be the best
 - 🌱 I’m currently learning C and C++
 - 📫 you can contact me on email : elkharroubizakariya@gmail.com
